@@ -1,0 +1,16 @@
+Smart Driver Identification System
+
+Ever paid for the traffic bill that your friend has got while driving your car? Or ever wanted to
+know where your car visited the week before? Of course you had some times that you wanted
+your car to be safe enough that no thief could try to steal. Nowadays people have a lot of
+problems like these. So we thought about a new, cheap and easy method for solving this kind
+of issues.
+Imagine a system that a driver’s license is a magnetic card and he shows his license to the
+reader in his car every time he gets in his car. So that the system easily keeps the tracks of
+people using his car, or when his car has been used, etc. imagine the car having GPS system
+keeping track of the places his car has visited, or where his car is in the moment. Imagine a
+car not working without a driver license shown so that thieves wouldn’t try to steal cars even
+if they do they would easily be caught by the system sending their data to the government.
+So this kind of traffic issues can easily be solved with a bunch of hardware control and a bit
+programming. The only thing we need to do is to work more on this project. Improve it and
+start using this kind of technologies in our lives.
